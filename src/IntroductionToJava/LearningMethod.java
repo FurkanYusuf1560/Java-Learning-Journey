@@ -1,3 +1,7 @@
+package IntroductionToJava;
+
+import java.util.Scanner;
+
 public class LearningMethod {
     private int yas;
     private String isim;
@@ -45,13 +49,22 @@ public class LearningMethod {
     }
 
     public static void main(String[] args) {
-
+/*
         Topla();
         Carp();
         Cıkar();
         LearningMethod a = new LearningMethod();
         a.bol();
         LearningMethod b = new LearningMethod();
+*/
+        Scanner inp = new Scanner(System.in);
+        int chosedNumbers = inp.nextInt();
+        int selectedNumbers = 0;
+
+        for (int i = 1; i<= chosedNumbers; i++){
+             selectedNumbers = inp.nextInt();
+             int[] numbers = new int[selectedNumbers];
+        }
 
 
 
