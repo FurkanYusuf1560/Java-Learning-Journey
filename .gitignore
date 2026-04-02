@@ -3,6 +3,11 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+src/ekranResimleri/Ekran Resmi 2026-03-01 15.19.43.png
+src/ekranResimleri/Ekran Resmi 2026-04-01 17.31.21.png
+src/ekranResimleri/Ekran Resmi 2026-04-01 17.31.59.png
+src/ekranResimleri/Ekran Resmi 2026-04-01 17.32.13.png
+
 
 ### Eclipse ###
 .apt_generated
